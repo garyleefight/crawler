@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "apify": "^2.3.2",
+    "fs-extra": "^10.1.0",
     "nodemailer": "^6.7.5",
-    "puppeteer": "^14.3.0"
+    "puppeteer": "^13.7.0"
   }
 }
